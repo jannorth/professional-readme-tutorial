@@ -60,6 +60,12 @@ ${data.description}
 
 ${renderLicenseSection(data)}
 
+## Table of Contents
+- [Project Description](#description)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
 `;
 }
 
