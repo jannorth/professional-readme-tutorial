@@ -13,7 +13,8 @@ const questions = [
   {
     type: "input",
     name: "description",
-    message: "Provide a short description explaining the what, why, and how of your project.",
+    message:
+      "Provide a short description explaining the what, why, and how of your project.",
   },
   {
     type: "input",
@@ -28,7 +29,8 @@ const questions = [
   {
     type: "input",
     name: "credits",
-    message: "Give credit where you received help completing this project.",
+    message:
+      "Give credit where you received help completing this project or add your own input!",
   },
   {
     type: "input",
@@ -44,7 +46,7 @@ const questions = [
   {
     type: "input",
     name: "profile",
-    message: "Enter your GitHub username:"
+    message: "Enter your GitHub username:",
   },
   {
     type: "input",

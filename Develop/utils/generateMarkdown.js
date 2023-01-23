@@ -59,7 +59,7 @@ function generateMarkdown(data) {
 ${renderLicenseBadge(data)}
 
 ## Table of Contents
-- [Project Description](#Description)
+- [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Credits](#Credits)
@@ -76,7 +76,7 @@ ${data.installation}
 ## Usage
 ${data.usage}
 
-## Credits
+## Credits and Contributions
 ${data.credits}
 
 ## Tests
@@ -88,7 +88,7 @@ ${renderLicenseLink(data)}
 ## Questions?
 - [GitHub Username] ${data.profile}
 - [GitHub Profile](https://github.com/jannorth)
-- [email] ${data.contact}
+- [Email] ${data.contact}
 
 `;
 }
