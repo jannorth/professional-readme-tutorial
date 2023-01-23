@@ -56,12 +56,16 @@ ${renderLicenseLink(data)}`;
 function generateMarkdown(data) {
   return `# ${data.title}
 
+${renderLicenseBadge(data)}
+
 ## Table of Contents
-- [Project Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [Project Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Credits](#Credits)
+- [Tests](#Tests)
+- [License](#License)
+- [Questions?](#Questions?)
 
 ## Description
 ${data.description}
@@ -75,7 +79,16 @@ ${data.usage}
 ## Credits
 ${data.credits}
 
-${renderLicenseSection(data)}
+## Tests
+${data.tests}
+
+## License
+${renderLicenseLink(data)}
+
+## Questions?
+- [GitHub Username] ${data.profile}
+- [GitHub Profile](https://github.com/jannorth)
+- [email] ${data.contact}
 
 `;
 }

@@ -31,10 +31,25 @@ const questions = [
     message: "Give credit where you received help completing this project.",
   },
   {
+    type: "input",
+    name: "tests",
+    message: "Include any testing instructions here:",
+  },
+  {
     type: "list",
     name: "license",
     message: "Which license is needed for this project?",
     choices: ["MIT", "Apache", "Boost", "BSD 3-Clause", "None"],
+  },
+  {
+    type: "input",
+    name: "profile",
+    message: "Enter your GitHub username:"
+  },
+  {
+    type: "input",
+    name: "contact",
+    message: "Enter email and instructions on best way to reach you:",
   },
 ];
 
