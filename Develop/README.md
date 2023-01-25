@@ -1,6 +1,6 @@
-# 
+# slidfj
 
-
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Table of Contents
 - [Description](#Description)
@@ -12,25 +12,27 @@
 - [Questions?](#Questions?)
 
 ## Description
-
+ 
 
 ## Installation
-
+ 
 
 ## Usage
+ 
 
-
-## Credits and Contributions
-
+## Credits
+ 
 
 ## Tests
-
+ 
 
 ## License
-
+[MIT License](https://opensource.org/licenses/MIT)
 
 ## Questions?
-- [GitHub Username] 
+- [GitHub Username]  
 - [GitHub Profile](https://github.com/jannorth)
-- [email] 
+- [Email]  
+
+## Contributions
 

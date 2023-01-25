@@ -66,6 +66,7 @@ ${renderLicenseBadge(data)}
 - [Tests](#Tests)
 - [License](#License)
 - [Questions?](#Questions?)
+- [Contributions](#Contributions)
 
 ## Description
 ${data.description}
@@ -76,7 +77,7 @@ ${data.installation}
 ## Usage
 ${data.usage}
 
-## Credits and Contributions
+## Credits
 ${data.credits}
 
 ## Tests
@@ -89,6 +90,8 @@ ${renderLicenseLink(data)}
 - [GitHub Username] ${data.profile}
 - [GitHub Profile](https://github.com/jannorth)
 - [Email] ${data.contact}
+
+## Contributions
 
 `;
 }
