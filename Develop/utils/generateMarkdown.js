@@ -66,6 +66,7 @@ ${renderLicenseBadge(data)}
 - [Tests](#Tests)
 - [License](#License)
 - [Questions?](#Questions?)
+- [Contributions](#Contributions)
 
 ## Description
 ${data.description}

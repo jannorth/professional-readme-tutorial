@@ -29,8 +29,7 @@ const questions = [
   {
     type: "input",
     name: "credits",
-    message:
-      "Give credit where you received help completing this project or add your own input!",
+    message: "Give credit where you received help completing this project!",
   },
   {
     type: "input",

@@ -1,4 +1,4 @@
-# dkslfj
+# slidfj
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -12,25 +12,27 @@
 - [Questions?](#Questions?)
 
 ## Description
-flaksdfj
+ 
 
 ## Installation
-sdkfjlk
+ 
 
 ## Usage
-lksdjf
+ 
 
-## Credits and Contributions
-sdfkjaselfj
+## Credits
+ 
 
 ## Tests
-slkdfj
+ 
 
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
 
 ## Questions?
-- [GitHub Username] jasf
+- [GitHub Username]  
 - [GitHub Profile](https://github.com/jannorth)
-- [Email] sdfkj
+- [Email]  
+
+## Contributions
 
