@@ -13,13 +13,17 @@
 - [Contributions](#Contributions)
 
 ## Description
-i built a readme template so that, when prompted in the command line, i enter information about the project. it saves time and allows more time to spend on the project
+create a readme template so that project details are concise and descriptive while allowing more time to focus on developing the project
 
 ## Installation
-click on the link provided in the readme
+open your template in the integrated terminal by right clicking on the VS folder. Run npm i and npm i inquirer@8.2.4 in the command line
 
 ## Usage
-click on the link provided in the readme
+
+
+https://user-images.githubusercontent.com/116915245/216630167-6a95524a-2a8c-4dfe-acb3-183d2fe44a09.mov
+
+
 
 ## Credits
 
@@ -33,7 +37,7 @@ click on the link provided in the readme
 ## Questions?
 - [GitHub Username] jannorth
 - [GitHub Profile](https://github.com/jannorth)
-- [Email] heizerj@gmail.com, email
+- [Email] heizerj@gmail.com
 
 ## Contributions
 
