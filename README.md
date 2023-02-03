@@ -20,9 +20,7 @@ open your template in the integrated terminal by right clicking on the VS folder
 
 ## Usage
 
-
-https://user-images.githubusercontent.com/116915245/216630167-6a95524a-2a8c-4dfe-acb3-183d2fe44a09.mov
-
+https://user-images.githubusercontent.com/116915245/216632662-62bcd5be-3dc7-4a54-84e4-1d0e45fa1fdf.mov
 
 
 ## Credits
@@ -40,4 +38,5 @@ https://user-images.githubusercontent.com/116915245/216630167-6a95524a-2a8c-4dfe
 - [Email] heizerj@gmail.com
 
 ## Contributions
+
 
